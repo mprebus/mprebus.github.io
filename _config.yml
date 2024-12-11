@@ -1,5 +1,5 @@
 theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Prebus lab
+title: Prebus Lab
 description: ant systematics and biodiversity

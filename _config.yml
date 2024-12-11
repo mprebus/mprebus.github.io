@@ -1,3 +1,5 @@
-theme: Leap Day theme
-title: mprebus homepage
-description: new website
+theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Prebus lab
+description: ant systematics and biodiversity
